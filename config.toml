@@ -1,0 +1,5 @@
+baseURL = "https://zono0806.github.io/" 
+languageCode = "en-us"
+title = "Myzn Blog"
+theme = "harbor"
+publishDir = "docs"

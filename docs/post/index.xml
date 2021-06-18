@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Myzn Blog</title>
+		<link>https://zono0806.github.io/post/</link>
+		<description>Recent content in Posts </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en-us</language>
+		
+		<managingEditor>Page(/post)</managingEditor>
+    	
+  		<lastBuildDate>Wed, 16 Jun 2021 19:53:36 +0900</lastBuildDate>
+		
+		<atom:link href="/post/" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>First</title>
+			<link>https://zono0806.github.io/post/first/</link>
+			<pubDate>Wed, 16 Jun 2021 19:53:36 +0900</pubDate>
+			<guid>https://zono0806.github.io/post/first/</guid>
+			<description>FIRST POST!!! </description>
+		</item>
+      	
+	</channel>
+</rss>
